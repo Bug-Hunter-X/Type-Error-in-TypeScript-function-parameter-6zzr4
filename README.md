@@ -1,0 +1,1 @@
+This code demonstrates a common type error in TypeScript. The greet function expects a Date object as the second parameter, but we are passing a string.  This will result in a compilation error.  The solution involves either changing the function parameter type or converting the input string to a Date object.
